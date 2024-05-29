@@ -25,7 +25,7 @@
 
 <p align="center">
  <a href="#" alt="Moien Tajik's github stats">
-  <img src="[https://github-readme-stats.vercel.app/api?username=mChoczay&theme=tokyonight&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs?username=mchoczay&show_icons=true&locale=en&layout=compact)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mchoczay&show_icons=true&locale=en&layout=compact" />
  </a>
 <a href="https://git.io/streak-stats">
  <img src="https://streak-stats.demolab.com?user=mChoczay&theme=tokyonight&card_width=350" alt="GitHub Streak" />
