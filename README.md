@@ -24,12 +24,20 @@
 </br>
 
 <p align="center">
-  <a href="#" alt="Moien Tajik's github stats" style="display: inline-block; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mchoczay&show_icons=true&theme=dark&locale=en&layout=compact" style="width: 350px; height: auto; max-height: 200px;" />
-  </a>
-  <a href="https://git.io/streak-stats" style="display: inline-block;">
-    <img src="https://streak-stats.demolab.com?user=mChoczay&theme=dark&card_width=350" alt="GitHub Streak" style="width: 350px; height: auto; max-height: 200px;" />
-  </a>
+  <table cellspacing="20">
+    <tr>
+      <td>
+        <a href="#" alt="Moien Tajik's github stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mchoczay&show_icons=true&theme=dark&locale=en&layout=compact" width="350" height="auto" />
+        </a>
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=mChoczay&theme=tokyonight&card_width=350" alt="GitHub Streak" width="350" height="auto" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
