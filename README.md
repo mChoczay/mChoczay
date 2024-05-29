@@ -25,10 +25,11 @@
 
 <p align="center">
  <a href="#" alt="Moien Tajik's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mchoczay&show_icons=true&theme=dark&locale=en&layout=compact" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mchoczay&show_icons=true&theme=dark&locale=en&layout=compact" width="350" height="200" />
  </a>
  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mChoczay&theme=tokyonight&card_width=350" alt="GitHub Streak" width="350" />
+  <img src="https://streak-stats.demolab.com?user=mChoczay&theme=tokyonight&card_width=350" alt="GitHub Streak" width="350" height="200" />
  </a>
 </p>
+
 
